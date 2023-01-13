@@ -1,0 +1,47 @@
+*{
+    font-family: 'raleway' sans-serif;
+}
+ul{
+    list-style-type: none;   
+}
+
+header{
+    padding: 20px;
+    
+}
+
+.container-nav{    
+    padding: 20px;
+    flex-wrap: nowrap;
+    justify-content: flex-end
+}
+
+.titulo{
+    color: #6ECCAF;
+    display: flex;
+    justify-content:flex-start;
+    padding-left: 40px;
+    font-size:x-large;
+}
+
+.bg-transparent{
+    
+    background-color: rgba(92, 117, 146,0.9);
+
+}
+
+.bg-blue{
+    background-color:#344d67
+}
+
+.botones{
+    background-color: #344d67;
+}
+
+a{
+    color: #6ECCAF;
+    text-decoration: none;
+}
+
+
+ 
