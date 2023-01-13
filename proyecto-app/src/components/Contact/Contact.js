@@ -48,5 +48,3 @@ export default function Contact(){
         
     )
 } 
-
-//reutilizamos el componente Navegation que creamos anteriormente, aprovechando que en ambas pagias se utilizan ( Characters y en Contact)

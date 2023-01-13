@@ -1,12 +1,8 @@
 import "./Home.css";
 import ListItemHome from "../ListItemHome/ListItemHome";
 
-
-/* Este componente corresponde a la pagina inicial (la del cuadrado blanco con los botones.
-    La navegacion de las hojas secundarias las hacemos en el componente Navegation*/
-
 export default function Home() {
-    //header bg-primary
+    
     return(
         
         <header className="header d-flex flex-column justify-content-center align-items-center">
